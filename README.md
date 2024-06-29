@@ -1,2 +1,2 @@
-# betselotb.github.io
-my portofolio
+# BETSE-S-BLOG
+This is my personal website
